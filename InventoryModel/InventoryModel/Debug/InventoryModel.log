@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  InventoryModel.cpp
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(134): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(137): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(143): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(181): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(261): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(275): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(279): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(288): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventorymodel\inventorymodel\inventorymodel.cpp(267): warning C4715: 'random_integer': not all control paths return a value
+  InventoryModel.vcxproj -> E:\uni work\6th Semester\Modeling and Simulation\InventoryModel\Debug\InventoryModel.exe

@@ -1,0 +1,14 @@
+﻿  Code.c
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(33): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(88): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(96): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(158): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\1_11\1_11\code.c(206): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  1_11.vcxproj -> E:\uni work\6th Semester\Modeling and Simulation\1_11\Debug\1_11.exe

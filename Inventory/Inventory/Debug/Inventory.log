@@ -1,0 +1,23 @@
+﻿  Inventory_Main.cpp
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(37): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(132): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(134): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(140): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(179): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(259): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(286): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\uni work\6th semester\modeling and simulation\inventory\inventory\inventory_main.cpp(265): warning C4715: 'random_integer': not all control paths return a value
+  Inventory.vcxproj -> E:\uni work\6th Semester\Modeling and Simulation\Inventory\Debug\Inventory.exe
